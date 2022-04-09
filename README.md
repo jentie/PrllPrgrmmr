@@ -31,3 +31,6 @@ Todo:
 * more testing, esp. tying EEPROM
 * check out direct file access (Intel HEX upload), small Pyton helper needed?
 * ...
+
+
+![alt finished circuit](https://github.com/jentie/PrllPrgrmmr/blob/main/PrllPrgrmmr-v0.jpg "finished circuit") 
