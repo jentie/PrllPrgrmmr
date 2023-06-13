@@ -8,23 +8,23 @@ usage: commands / data via serial line usb interface
 
 current commands (see help command):
 ```
-   PrllPrgrmmr - Programmmer for parallel EEPROM etc.");
-   !h      - this help        !v        - toggle verbose flag");
+   PrllPrgrmmr - Programmmer for parallel EEPROM etc.
+   !h      - this help        !v      - toggle verbose flag
 
-   !a aaaa - apply address");
-   !o dd   - output data      !i        - input data");
-   !c      - complete memory access cylce");
+   !a aaaa - apply address
+   !o dd   - output data      !i      - input data
+   !c      - complete memory access cylce
  
-   !r aaaa      - read memory location");
-   !w aaaa dd   - write data to address");
-   !d aaaa nnnn - dump nn bytes starting at aaaa");
-   !s nnnn      - set size");
-   !f dd        - fill memory with data");
+   !r aaaa      - read memory location
+   !w aaaa dd   - write data to address
+   !d aaaa nnnn - dump nn bytes starting at aaaa
+   !s nnnn      - set size
+   !f dd        - fill memory with data
    
-   todo: program / flash / type?");
-
-   : nnnn       - capture Intel HEX file");
-   :20000000F3..- write Intel HEX format");
+   : nnnn       - capture Intel HEX file
+   :20000000F3..- write Intel HEX format
+   
+   todo: program / flash / type?
 ```
 
 Todo: 
